@@ -14,6 +14,7 @@
 		042C92881C7C0F9800286181 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 042C92871C7C0F9800286181 /* Assets.xcassets */; };
 		042C928B1C7C0F9800286181 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 042C92891C7C0F9800286181 /* LaunchScreen.storyboard */; };
 		042C92941C7C0FCF00286181 /* SubScrollViewAndPageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 042C92931C7C0FCF00286181 /* SubScrollViewAndPageView.m */; };
+		F4EF93751D112D5E00E4DE23 /* ADScrollViewGIF.gif in Resources */ = {isa = PBXBuildFile; fileRef = F4EF93741D112D5E00E4DE23 /* ADScrollViewGIF.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		042C928C1C7C0F9800286181 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		042C92921C7C0FCF00286181 /* SubScrollViewAndPageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SubScrollViewAndPageView.h; sourceTree = "<group>"; };
 		042C92931C7C0FCF00286181 /* SubScrollViewAndPageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SubScrollViewAndPageView.m; sourceTree = "<group>"; };
+		F4EF93741D112D5E00E4DE23 /* ADScrollViewGIF.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = ADScrollViewGIF.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		042C927B1C7C0F9800286181 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				F4EF93741D112D5E00E4DE23 /* ADScrollViewGIF.gif */,
 				042C927C1C7C0F9800286181 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -141,6 +144,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F4EF93751D112D5E00E4DE23 /* ADScrollViewGIF.gif in Resources */,
 				042C928B1C7C0F9800286181 /* LaunchScreen.storyboard in Resources */,
 				042C92881C7C0F9800286181 /* Assets.xcassets in Resources */,
 				042C92861C7C0F9800286181 /* Main.storyboard in Resources */,
@@ -304,6 +308,7 @@
 				042C92911C7C0F9800286181 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
